@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "evergreen-ui": "^4.8.0",
-    "marked": "^0.5.2",
+    "marked": "^0.7.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.1"
